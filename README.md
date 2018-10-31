@@ -20,5 +20,5 @@ This code was developed on [https://idss.mit.edu/people/](https://idss.mit.edu/p
 
     ├── README.md
     ├── data
-    │   └── idss_bios.json  <- sqlite database.           
+    │   └── idss_bios.json         
     └── biomatch           <- Plotting notebooks.
